@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on PostLux<br>🌱 I’m currently learning Python and PostgreSQL<br>
+
+Hi! I'm Binod Uprety — a passionate full-stack developer and social entrepreneur from Nepal 🇳🇵.
+
+I'm currently building advanced web applications using **Django**, **Django REST Framework**, and **React**. I’ve developed platforms ranging from **discussion forums**, **e-commerce sites**, to **educational websites** — all with a focus on performance, scalability, and real-world usability.
+
+🔧 I specialize in:
+- Python | Django | Django REST API
+- React | Bootstrap | Tailwind CSS
+- MySQL | SQLite | PostgreSQL
+- Deployment with **cPanel**, **FTP**, **GitHub**, and server automation
 
 
 ## 🌐 Socials:
